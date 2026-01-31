@@ -1,0 +1,534 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated": "2026-01-31",
+    "source": "ICG Website Scrape + LinkedIn + Google Drive Messaging Framework"
+  },
+  "categories": [
+    { "id": "design", "label": "Design", "icon": "🎨" },
+    { "id": "video", "label": "Video", "icon": "🎬" },
+    { "id": "audio", "label": "Audio", "icon": "🎵" },
+    { "id": "interactive", "label": "Interactive", "icon": "🎮" },
+    { "id": "branding", "label": "Branding", "icon": "✦" },
+    { "id": "ai", "label": "AI-Enhanced", "icon": "🤖" },
+    { "id": "print", "label": "Print", "icon": "📄" },
+    { "id": "web", "label": "Web", "icon": "🌐" },
+    { "id": "social", "label": "Social Media", "icon": "📱" }
+  ],
+  "projects": [
+    {
+      "id": "project-01",
+      "number": "01",
+      "tier": 1,
+      "originalName": "Project 01",
+      "displayName": "Nutrabolics — SuperNova Commercial",
+      "client": "Nutrabolics",
+      "projectTitle": "SuperNova",
+      "subtitle": "Commercial",
+      "description": "Produced the SuperNova commercial for Nutrabolics in association with Eizzof Entertainment. Full video production including creative direction, filming, editing, sound design, and music production.",
+      "shortDescription": "Full commercial production for fitness nutrition brand.",
+      "services": ["Video Production", "Sound Design", "Music Production"],
+      "categories": ["video", "audio"],
+      "association": "Produced in association with Eizzof Entertainment",
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-1",
+      "hasVideo": true,
+      "thumbnail": {
+        "alt": "02.png",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_3defd92260fd42e8bba9facd5634ae2a~mv2.png",
+        "downloadAs": "01-nutrabolics.png"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_09b4248b1b28493d916f38b7e25c5b14f002.jpg"
+      ]
+    },
+    {
+      "id": "project-02",
+      "number": "02",
+      "tier": 1,
+      "originalName": "Project 02",
+      "displayName": "Warner Brothers — Scooby Doo & Looney Tunes Game",
+      "client": "Warner Brothers",
+      "projectTitle": "Scooby Doo! & Looney Tunes Cartoon Universe: Adventure",
+      "subtitle": "Video Game",
+      "description": "Designed and produced assets for Warner Brothers' Scooby Doo! & Looney Tunes Cartoon Universe: Adventure — a licensed video game distributed on Steam. Working with globally recognized IP required strict adherence to brand standards across every deliverable.",
+      "shortDescription": "Licensed video game assets for global entertainment IP.",
+      "services": ["Design", "Interactive Design", "Brand Compliance"],
+      "categories": ["interactive", "design"],
+      "externalLink": "http://store.steampowered.com/app/294280/",
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-02",
+      "hasVideo": false,
+      "thumbnail": {
+        "alt": "Screen Shot 2021-12-02 at 5.50.36 PM.png",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_e092a356d22942559f92900e41954ca0~mv2.png",
+        "downloadAs": "02-warner-bros.png"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_e092a356d22942559f92900e41954ca0~mv2.png"
+      ]
+    },
+    {
+      "id": "project-03",
+      "number": "03",
+      "tier": 3,
+      "originalName": "Project 03",
+      "displayName": "Motorcycle Wars — Promo Video",
+      "client": "Motorcycle Wars Web Series",
+      "projectTitle": "Motorcycle Wars",
+      "subtitle": "Promo Video",
+      "description": "Created the promotional video for the Motorcycle Wars web series, handling creative direction, video editing, sound design, and original music production.",
+      "shortDescription": "Promo video for web series with full audio/video production.",
+      "services": ["Creative Direction", "Video Editing", "Sound Design", "Music Production"],
+      "categories": ["video", "audio"],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-03",
+      "hasVideo": true,
+      "thumbnail": {
+        "alt": "Screen Shot 2021-12-02 at 6.01.53 PM.png",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_9c56b65160bd4d0a96ea5e8a1a28a85f~mv2.png",
+        "downloadAs": "03-motorcycle-wars.png"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_9c56b65160bd4d0a96ea5e8a1a28a85f~mv2.png"
+      ]
+    },
+    {
+      "id": "project-04",
+      "number": "04",
+      "tier": 2,
+      "originalName": "Project 04",
+      "displayName": "Titan Development — Emerald Beach Residences",
+      "client": "Titan Development",
+      "projectTitle": "Emerald Private Beach Residences",
+      "subtitle": "Full Branding & Marketing",
+      "description": "Created all branding and marketing collateral for Panama's luxurious Emerald Private Beach Residences. A comprehensive project spanning art direction, web design, production, and print management.",
+      "shortDescription": "Complete branding for luxury Panama beach residences.",
+      "services": ["Art Direction", "Web Design", "Production", "Print Production & Management"],
+      "categories": ["design", "branding", "web", "print"],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-04",
+      "hasVideo": false,
+      "thumbnail": {
+        "alt": "emerald1-750x500.jpg",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_4c4fa06c0f9b4714b17a0a0b09770e3d~mv2.jpg",
+        "downloadAs": "04-emerald-beach.jpg"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_4c4fa06c0f9b4714b17a0a0b09770e3d~mv2.jpg",
+        "https://static.wixstatic.com/media/26f8ac_7a1f22cdfe554d748ba05fb08e5c1f3e~mv2.jpg",
+        "https://static.wixstatic.com/media/26f8ac_84e18bb459f342aba53e5d9314fae5b8~mv2.jpg",
+        "https://static.wixstatic.com/media/26f8ac_e65d2e1d12b043508eaff4e23f13caae~mv2.jpg",
+        "https://static.wixstatic.com/media/26f8ac_f1d4f1f47dcc470b9503e9b3f4e4f0d7~mv2.jpg"
+      ]
+    },
+    {
+      "id": "project-05",
+      "number": "05",
+      "tier": 1,
+      "originalName": "Project 05",
+      "displayName": "The Happy Baker — Award-Winning Cookbook",
+      "client": "Erin Bolger / Harlequin",
+      "projectTitle": "A Dater's Guide to Emotional Baking",
+      "subtitle": "The Happy Baker",
+      "description": "Created the complete branding, designed and produced the 160-page cookbook, art directed the photography, and built the press kit and website for Erin Bolger's 'A Dater's Guide to Emotional Baking.' The result: a GOURMAND World Cookbook Award, New York Times Top 10 Cookbooks of the Year, and distribution across the U.S. through Harlequin.",
+      "shortDescription": "Award-winning 160-page cookbook — GOURMAND Award, NYT Top 10.",
+      "services": ["Branding", "Book Design & Production", "Art Direction", "Photography Direction", "Web Design", "Press Kit"],
+      "categories": ["design", "branding", "print"],
+      "awards": [
+        "GOURMAND World Cookbook Award",
+        "Top 10 Cookbooks of the Year — The New York Times",
+        "Harlequin US Distribution"
+      ],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-05",
+      "hasVideo": false,
+      "thumbnail": {
+        "alt": "hb01.jpg",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_9274f592075e47fc86a3a553477ad743~mv2.jpg",
+        "downloadAs": "05-happy-baker.jpg"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_9274f592075e47fc86a3a553477ad743~mv2.jpg",
+        "https://static.wixstatic.com/media/26f8ac_a51e34ee8b274c218d55e6f2e05e6d31~mv2.jpg",
+        "https://static.wixstatic.com/media/26f8ac_c5f3c8f1b0924c778b47cc4b4c3c26fd~mv2.jpg",
+        "https://static.wixstatic.com/media/26f8ac_d71e37e2db024e6a8d3b8e93d8e4f2c4~mv2.jpg",
+        "https://static.wixstatic.com/media/26f8ac_f8e5a2c5d7b049ef88d6e17e7c2d38a1~mv2.jpg"
+      ]
+    },
+    {
+      "id": "project-06",
+      "number": "06",
+      "tier": 1,
+      "originalName": "Project 06",
+      "displayName": "Rogers/Chrysler — Advertorial Magazines",
+      "client": "Rogers, Chrysler, Ontario Tourism Board",
+      "projectTitle": "Advertorial Mini-Magazines",
+      "subtitle": "Multi-Brand Campaign",
+      "description": "Selected by Rogers in partnership with Chrysler and the Ontario Tourism Board to create five advertorial mini-magazines. Distributed with Money Sense, Chatelaine, Today's Parent, and Maclean's magazines — reaching millions of Canadian readers.",
+      "shortDescription": "5 advertorial magazines for Rogers/Chrysler, distributed with national publications.",
+      "services": ["Art Direction", "Design", "Photography Direction", "Production", "Print Production & Management"],
+      "categories": ["design", "print"],
+      "distributedIn": ["Money Sense", "Chatelaine", "Today's Parent", "Maclean's"],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-06",
+      "hasVideo": false,
+      "thumbnail": {
+        "alt": "Mag01.jpg",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_5994867edbfd4b9d9966c3539fa6466f~mv2.jpg",
+        "downloadAs": "06-rogers-chrysler.jpg"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_5994867edbfd4b9d9966c3539fa6466f~mv2.jpg",
+        "https://static.wixstatic.com/media/26f8ac_2b9e4c3d67a64f1c8e32d5f7a1b8c9e0~mv2.jpg"
+      ]
+    },
+    {
+      "id": "project-07",
+      "number": "07",
+      "tier": 3,
+      "originalName": "Project 07",
+      "displayName": "B. Teepee — B.Toys Commercial",
+      "client": "B.Toys",
+      "projectTitle": "B. Teepee",
+      "subtitle": "Commercial",
+      "description": "Post-production for the B. Teepee commercial for B.Toys toy brand.",
+      "shortDescription": "Commercial post-production for toy brand.",
+      "services": ["Post Production"],
+      "categories": ["video"],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-07-1",
+      "hasVideo": true,
+      "thumbnail": {
+        "alt": "Screen Shot 2021-12-02 at 6.28.14 PM.png",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_9041c5728b32434980cacb986f1abb12~mv2.png",
+        "downloadAs": "07-btoys.png"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_9041c5728b32434980cacb986f1abb12~mv2.png"
+      ]
+    },
+    {
+      "id": "project-08",
+      "number": "08",
+      "tier": 3,
+      "originalName": "Project 08",
+      "displayName": "You Are Driving Me Crazy — Short Film",
+      "client": "Short Film Production",
+      "projectTitle": "You Are Driving Me Crazy",
+      "subtitle": "Short Film",
+      "description": "Sound design and music production for the short film 'You Are Driving Me Crazy.'",
+      "shortDescription": "Sound design and music for short film.",
+      "services": ["Sound Design", "Music Production"],
+      "categories": ["audio"],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-08",
+      "hasVideo": true,
+      "thumbnail": {
+        "alt": "Screen Shot 2021-12-02 at 6.49.38 PM.png",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_b9a26aa43d0e422cb33508c18003ae40~mv2.png",
+        "downloadAs": "08-short-film.png"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_b9a26aa43d0e422cb33508c18003ae40~mv2.png"
+      ]
+    },
+    {
+      "id": "project-09",
+      "number": "09",
+      "tier": 3,
+      "originalName": "Project 09",
+      "displayName": "DASIT — Corporate Video",
+      "client": "DASIT",
+      "projectTitle": "DASIT",
+      "subtitle": "Corporate Video",
+      "description": "Sound design and music production for DASIT corporate video.",
+      "shortDescription": "Corporate video audio production.",
+      "services": ["Sound Design", "Music Production"],
+      "categories": ["audio"],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-9",
+      "hasVideo": true,
+      "thumbnail": {
+        "alt": "Screen Shot 2021-12-02 at 7.00.18 PM.png",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_cd58bfe29d6446c6930204c3a7217ae8~mv2.png",
+        "downloadAs": "09-dasit.png"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_cd58bfe29d6446c6930204c3a7217ae8~mv2.png"
+      ]
+    },
+    {
+      "id": "project-10",
+      "number": "10",
+      "tier": 3,
+      "originalName": "Project 10",
+      "displayName": "Guitar Starz Club",
+      "client": "Guitar Starz Club (co-founded)",
+      "projectTitle": "Guitar Starz Club",
+      "subtitle": "Music Education Non-Profit",
+      "description": "Guitar Starz Club is a not-for-profit organization that gives children the opportunity to create and express themselves through music and technology. Developed branding, sales strategies, gamified teaching curriculum, promotional materials, and produced multiple concerts including professional theatre, lighting, and sound production.",
+      "shortDescription": "Co-founded gamified music education program for children.",
+      "services": ["Branding", "Curriculum Development", "Sales Strategy", "Event Production", "Print & Digital Marketing"],
+      "categories": ["branding", "design"],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/project-10",
+      "hasVideo": false,
+      "thumbnail": {
+        "alt": "gsc8.jpg",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_0f62ca6a91dd42e7b2cc754f00cc3d00~mv2.jpg",
+        "downloadAs": "10-guitar-starz.jpg"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_0f62ca6a91dd42e7b2cc754f00cc3d00~mv2.jpg"
+      ]
+    },
+    {
+      "id": "project-11",
+      "number": "11",
+      "tier": 2,
+      "originalName": "Project 11",
+      "displayName": "Doublemint — Commercial",
+      "client": "Wrigley's / Mars",
+      "projectTitle": "Doublemint",
+      "subtitle": "Commercial",
+      "description": "Creative direction and full production of a Doublemint commercial for Wrigley's — including video production, sound design, and original music production.",
+      "shortDescription": "Full commercial production for global consumer brand.",
+      "services": ["Creative Direction", "Video Production", "Sound Design", "Music Production"],
+      "categories": ["video", "audio"],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/copy-of-project-09",
+      "hasVideo": true,
+      "thumbnail": {
+        "alt": "Doublemint Screen.png",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_a5dead9250d0409f8058d3006b769fa2~mv2.png",
+        "downloadAs": "11-doublemint.png"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_a5dead9250d0409f8058d3006b769fa2~mv2.png"
+      ]
+    },
+    {
+      "id": "project-12",
+      "number": "12",
+      "tier": 2,
+      "originalName": "Project 12",
+      "displayName": "Professional Rubber Sealants — Brand Launch to Acquisition",
+      "client": "Confidential (acquired by international brand)",
+      "projectTitle": "Professional Rubber Sealants & Industrial Cleaners",
+      "subtitle": "Ground-Up Brand Creation",
+      "description": "Ground-up brand creation for a line of professional rubber sealants and industrial cleaners. Developed all branding, collateral, trade show displays, directed photoshoots, and designed and managed the website. The marketing success led to products being sold on The Home Depot online and ultimately acquired by an international brand.",
+      "shortDescription": "Brand creation → Home Depot distribution → international acquisition.",
+      "services": ["Branding", "Collateral", "Trade Show Displays", "Photography Direction", "Web Design & Management"],
+      "categories": ["branding", "design", "web", "print"],
+      "businessOutcome": "Products sold on The Home Depot online, brand acquired by international company",
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/copy-of-project-11",
+      "hasVideo": false,
+      "thumbnail": {
+        "alt": "group-3.jpg",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_80a066618d8f4416b9cce810310c7bbd~mv2.jpg",
+        "downloadAs": "12-sealants.jpg"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_80a066618d8f4416b9cce810310c7bbd~mv2.jpg"
+      ]
+    },
+    {
+      "id": "project-13",
+      "number": "13",
+      "tier": 2,
+      "originalName": "Project 13",
+      "displayName": "Nalu Retreat and Nordic Spa",
+      "client": "Nalu Retreat",
+      "projectTitle": "Nalu Retreat and Nordic Spa",
+      "subtitle": "Brand & Digital Presence",
+      "description": "Ongoing collaboration shaping the brand, web, and social media presence for Nalu Retreat — quickly becoming a Nova Scotia favourite destination. Includes AI-enhanced video production using our agentic orchestration system.",
+      "shortDescription": "Complete brand and digital presence for NS destination spa.",
+      "services": ["Art Direction", "Web Design", "Social Media Management", "Short Form Video Editing", "Print Production & Management"],
+      "categories": ["branding", "web", "social", "video", "ai"],
+      "externalLink": "https://www.naluretreat.com",
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/copy-of-project-04",
+      "hasVideo": false,
+      "aiEnhanced": true,
+      "thumbnail": {
+        "alt": "Nalu Retreat www.jpg",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_4ddf028805f14fb398b50cecb3ca78fe~mv2.jpg",
+        "downloadAs": "13-nalu-retreat.jpg"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_4ddf028805f14fb398b50cecb3ca78fe~mv2.jpg"
+      ]
+    },
+    {
+      "id": "project-14",
+      "number": "14",
+      "tier": 3,
+      "originalName": "Project 14",
+      "displayName": "Kinap Athletic Club",
+      "client": "Kinap Athletic Club",
+      "projectTitle": "Kinap Athletic Club",
+      "subtitle": "Brand Refresh",
+      "description": "In 2023, brought on to reshape and refresh the Kinap Athletic Club brand, website, social media, and marketing collateral.",
+      "shortDescription": "Complete brand refresh for athletic club.",
+      "services": ["Art Direction", "Web Design", "Social Media Management", "Short Form Video Editing", "Print Production & Management"],
+      "categories": ["branding", "web", "social"],
+      "externalLink": "https://www.kinap.ca",
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/copy-of-project-13",
+      "hasVideo": false,
+      "thumbnail": {
+        "alt": "FB Hiring post.jpg",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_01a13186bc484755b94c1d4730829233~mv2.jpg",
+        "downloadAs": "14-kinap.jpg"
+      },
+      "contentImages": [
+        "https://static.wixstatic.com/media/26f8ac_01a13186bc484755b94c1d4730829233~mv2.jpg"
+      ]
+    },
+    {
+      "id": "project-15",
+      "number": "15",
+      "tier": 2,
+      "originalName": "Project 15",
+      "displayName": "Yousician For Schools",
+      "client": "Yousician",
+      "projectTitle": "Yousician For Schools",
+      "subtitle": "Program Management & Promotions",
+      "description": "Managed a six-month pilot program across ten Helsinki elementary schools, delivering instruments, software licenses, and hardware resources. Developed educator workshops, instructional video resources, and a scalable framework for technology-enhanced music education.",
+      "shortDescription": "International education pilot across 10 Helsinki schools.",
+      "services": ["Program Management", "Educator Training", "Promotional Materials", "Video Production", "Workshop Development"],
+      "categories": ["branding", "video"],
+      "sourceUrl": "https://www.inspiredcreativegroupinc.com/copy-of-project-11-1",
+      "hasVideo": false,
+      "thumbnail": {
+        "alt": "YSFS - screen.png",
+        "wixBaseUrl": "https://static.wixstatic.com/media/26f8ac_0dc6a503562e4dbd849d6bf4f27572b8~mv2.png",
+        "downloadAs": "15-yousician.png"
+      },
+      "contentImages": []
+    }
+  ],
+  "aiShowcase": [
+    {
+      "id": "ai-nalu-video",
+      "title": "Nalu Retreat — AI-Produced Video",
+      "description": "88-second video produced with zero traditional software. No Premiere, No After Effects, No Pro Tools — just photos, Claude Code, and an agentic orchestration system.",
+      "linkedinUrl": "https://www.linkedin.com/posts/juanvalenciaproduction_naluretreat-disconnecttoreconnect-wellnessjourney-activity-7403780443399045122-F-Hx",
+      "engagement": { "likes": 12, "comments": 1, "shares": 1 },
+      "tools": ["Claude Code", "Agentic Orchestration"],
+      "isClientWork": true,
+      "categories": ["ai", "video"]
+    },
+    {
+      "id": "ai-boxing-day",
+      "title": "Boxing Day Reflection — Full AI Production",
+      "description": "A reflection piece produced entirely with AI tools — Claude Agents, Kling AI 2.6 Pro, Veo 3.1, and Suno AI for original music.",
+      "linkedinUrl": "https://www.linkedin.com/posts/juanvalenciaproduction_consciousconsumption-circulareconomy-sustainableliving-activity-7412247371373469696-Z_iq",
+      "engagement": { "likes": 13, "comments": 7, "shares": 1 },
+      "tools": ["Claude Agents", "Kling AI 2.6 Pro", "Veo 3.1", "Suno AI"],
+      "isClientWork": false,
+      "categories": ["ai", "video", "audio"]
+    },
+    {
+      "id": "ai-suno-music",
+      "title": "Suno AI Music Generation Workflow",
+      "description": "Built the easiest way to get professional music from Suno AI — no complicated prompts, no trial and error. Natural language to professional music.",
+      "linkedinUrl": "https://www.linkedin.com/posts/juanvalenciaproduction_i-built-the-easiest-way-to-get-professional-activity-7394690598563360769-aChy",
+      "engagement": { "likes": 22, "comments": 23, "shares": 2 },
+      "tools": ["Claude Code", "Suno AI"],
+      "isClientWork": false,
+      "categories": ["ai", "audio"],
+      "note": "Highest engagement post — demonstrates AI music production capability"
+    },
+    {
+      "id": "ai-uncle-eddie",
+      "title": "Custom AI Music Video",
+      "description": "Custom AI-generated music video using the Agentic Multimedia Production Suite — demonstrating personalized video production capabilities.",
+      "linkedinUrl": "https://www.linkedin.com/posts/juanvalenciaproduction_videoproduction-aiworkflow-customvideo-activity-7407165020188606464-k0qq",
+      "engagement": { "likes": 11, "comments": 4, "shares": 0 },
+      "tools": ["Agentic Multimedia Production Suite"],
+      "isClientWork": false,
+      "categories": ["ai", "video", "audio"]
+    },
+    {
+      "id": "ai-photo-animation",
+      "title": "Historic Photo Animation",
+      "description": "A 1950s photo brought to life using Claude Code agent capabilities — demonstrating image-to-video production.",
+      "linkedinUrl": "https://www.linkedin.com/posts/juanvalenciaproduction_contentproduction-aiworkflow-claudecode-activity-7394359228095963136-IWIQ",
+      "engagement": { "likes": 10, "comments": 2, "shares": 0 },
+      "tools": ["Claude Code"],
+      "isClientWork": false,
+      "categories": ["ai", "video"]
+    },
+    {
+      "id": "ai-sound-extraction",
+      "title": "AI Audio Processing — Sound Effects Extraction",
+      "description": "36 sound effect samples extracted from a single source in under 2 minutes using Claude Agent Skills — demonstrating AI audio production capabilities.",
+      "linkedinUrl": "https://www.linkedin.com/posts/juanvalenciaproduction_contentproduction-workflowautomation-productionworkflow-activity-7396689972214521856-uZ24",
+      "engagement": { "likes": 6, "comments": 5, "shares": 0 },
+      "tools": ["Claude Agent Skills", "FFmpeg"],
+      "isClientWork": false,
+      "categories": ["ai", "audio"]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-01",
+      "quote": "We needed five advertorial magazines created simultaneously for a major multi-brand campaign. The team delivered all five on time, on brand, and the art direction elevated what could have been standard advertorials into pieces our readers actually wanted to keep. That's rare.",
+      "attribution": "Marketing Director",
+      "company": "National Media Partnership Campaign",
+      "relatedProject": "project-06",
+      "priority": 2,
+      "hasRealName": false
+    },
+    {
+      "id": "testimonial-02",
+      "quote": "Working with licensed IP means zero room for error — every frame has to meet brand standards. They understood that from day one and delivered work that Warner approved without major revisions. For anyone who's worked with big licensors, you know how rare that is.",
+      "attribution": "Executive Producer",
+      "company": "Video Game Development Studio",
+      "relatedProject": "project-02",
+      "priority": 3,
+      "hasRealName": false
+    },
+    {
+      "id": "testimonial-03",
+      "quote": "I came to them with a cookbook concept and left with a Gourmand World Cookbook Award and a New York Times Top 10 selection. They didn't just design a book — they created an entire brand identity, art directed the photography, and built everything from the press kit to the website. The attention to detail was exceptional.",
+      "attribution": "Erin Bolger",
+      "company": "Author, 'A Dater's Guide to Emotional Baking' (The Happy Baker)",
+      "relatedProject": "project-05",
+      "priority": 1,
+      "hasRealName": true
+    },
+    {
+      "id": "testimonial-04",
+      "quote": "When you're producing content for multiple networks simultaneously, you need a team that understands broadcast standards cold. They delivered clean, broadcast-ready assets every time — which meant we could focus on the creative instead of the technical.",
+      "attribution": "Post-Production Supervisor",
+      "company": "Cable Network Programming",
+      "relatedProject": null,
+      "priority": 4,
+      "hasRealName": false
+    }
+  ],
+  "showreel": {
+    "vimeoUrl": "https://vimeo.com/1122018207?fl=tl&fe=ec",
+    "vimeoId": "1122018207",
+    "embedUrl": "https://player.vimeo.com/video/1122018207?badge=0&autopause=0&player_id=0&app_id=58479",
+    "placement": "Portfolio section hero, above featured projects"
+  },
+  "branding": {
+    "logo": {
+      "url": "https://static.wixstatic.com/media/26f8ac_b3541cd1a3124ff1b5867fe934ca0051~mv2.png",
+      "localPath": "assets/logo.png"
+    },
+    "colors": {
+      "primary": "#E8000D",
+      "primaryLight": "#FF2D2D",
+      "black": "#000000",
+      "dark": "#0A0A0A",
+      "surface": "#111111",
+      "white": "#FFFFFF",
+      "gray300": "#CCCCCC",
+      "gray400": "#999999",
+      "gray600": "#555555",
+      "border": "#222222"
+    },
+    "fonts": {
+      "headings": "Space Grotesk",
+      "body": "Inter"
+    },
+    "location": "Halifax, Nova Scotia · Working Globally"
+  },
+  "clientLogos": [
+    "Discovery", "HGTV", "National Geographic", "Netflix",
+    "Warner Brothers", "Rogers", "Sony", "Mattel",
+    "Hallmark", "Cartoon Network", "Chrysler", "Amazon"
+  ]
+}
